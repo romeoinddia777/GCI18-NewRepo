@@ -1,4 +1,3 @@
-# GCI18-NewRepo
 # How To Start
 
 Fire up!
